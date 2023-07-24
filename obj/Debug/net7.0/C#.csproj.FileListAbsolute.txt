@@ -1,0 +1,15 @@
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C#\bin\Debug\net7.0\C#.exe
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C#\bin\Debug\net7.0\C#.deps.json
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C#\bin\Debug\net7.0\C#.runtimeconfig.json
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C#\bin\Debug\net7.0\C#.dll
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C#\bin\Debug\net7.0\C#.pdb
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C#\obj\Debug\net7.0\C#.csproj.AssemblyReference.cache
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C#\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C#\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C#\obj\Debug\net7.0\C#.AssemblyInfo.cs
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C#\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C#\obj\Debug\net7.0\C#.dll
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C#\obj\Debug\net7.0\refint\C#.dll
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C#\obj\Debug\net7.0\C#.pdb
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C#\obj\Debug\net7.0\C#.genruntimeconfig.cache
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C#\obj\Debug\net7.0\ref\C#.dll
