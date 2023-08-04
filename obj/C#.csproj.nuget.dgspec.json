@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\guiga\\OneDrive\\Área de Trabalho\\Projetos\\C#\\C#.csproj": {}
+    "C:\\Users\\guiga\\OneDrive\\Área de Trabalho\\Projetos\\C#\\C#.csproj": {}
   },
   "projects": {
-    "c:\\Users\\guiga\\OneDrive\\Área de Trabalho\\Projetos\\C#\\C#.csproj": {
+    "C:\\Users\\guiga\\OneDrive\\Área de Trabalho\\Projetos\\C#\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\guiga\\OneDrive\\Área de Trabalho\\Projetos\\C#\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\guiga\\OneDrive\\Área de Trabalho\\Projetos\\C#\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "c:\\Users\\guiga\\OneDrive\\Área de Trabalho\\Projetos\\C#\\C#.csproj",
+        "projectPath": "C:\\Users\\guiga\\OneDrive\\Área de Trabalho\\Projetos\\C#\\C#.csproj",
         "packagesPath": "C:\\Users\\guiga\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\guiga\\OneDrive\\Área de Trabalho\\Projetos\\C#\\obj\\",
+        "outputPath": "C:\\Users\\guiga\\OneDrive\\Área de Trabalho\\Projetos\\C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
